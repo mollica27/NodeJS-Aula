@@ -1,4 +1,4 @@
-const app = require('./app');
+import app from './app';
 
 let port = 3333
 
